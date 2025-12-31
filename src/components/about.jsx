@@ -13,7 +13,7 @@ const About = () => {
           <div className="relative">
             <div className="absolute -inset-4 bg-gold-500/20 blur-xl rounded-lg"></div>
             <img 
-              src="/krystian_kitlinski.png" 
+              src={`${import.meta.env.BASE_URL}krystian_kitlinski.png`} 
               alt="Mecenas Krystian Kitliński" 
               className="relative rounded-lg shadow-2xl border border-white/10 w-full object-cover h-[500px] object-top"
             />

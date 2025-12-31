@@ -18,7 +18,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
-              Profesjonalna pomoc prawna dla osób indywidualnych i firm. Skuteczność, zaangażowanie i pełna poufność.
+              Kancelaria Radcy Prawnego Krystiana Kitlińskiego to gwarancja profesjonalizmu. Specjalizuję się w kompleksowej obsłudze prawnej, dbając o bezpieczeństwo i interesy moich Klientów w każdej sprawie.
             </p>
           </div>
 
